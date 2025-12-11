@@ -23,7 +23,7 @@ You only need **Python 3** installed on your machine.
 
 ### 2. Running the Game
 
-1.  **Save the code:** Save the Python code (the one you generated) into a file named `rock.py`.
+1.  **Save the code:** Save the Python code into a file named `rock.py`.
 2.  **Open your terminal/command prompt.**
 3.  **Navigate** to the directory where you saved the file.
 4.  **Run the script** using the Python interpreter:
